@@ -1,4 +1,4 @@
-Student Name
-Student Suc code
-Student course
-Student rollno
+SIMHADRI SHANMUKHA
+2352320226
+BCA
+39
